@@ -13,7 +13,7 @@ Node.js app that uses GraphQL and runs on port 5500
 2. Navigate to that folder in Terminal and run npm install
 3. Once npm install completes, run node index.js
 4. Once the application is running locally, open your browser and go to localhost:5500/graphql
-5. Have fun writing queries
+5. Have fun writing queries or using the ones provided in GraphQL.txt
 
 ## Roadmap of future improvements:
 -[x] Edit the existing code to use the restaurant's attribute id instead of the restaurant's index in the array
