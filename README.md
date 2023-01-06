@@ -15,6 +15,14 @@ Node.js app that uses GraphQL and runs on port 5500
 4. Once the application is running locally, open your browser and go to localhost:5500/graphql
 5. Have fun writing queries or using the ones provided in GraphQL.txt
 
+## GraphQL:
+If you use the queries and mutations I provided in GraphQL.txt, you will need to add Query Variables, such as the ones provided below.
+```
+{
+  "idd": 2,
+  "name": "OLDO"
+}
+```
 ## Roadmap of future improvements:
 -[x] Edit the existing code to use the restaurant's attribute id instead of the restaurant's index in the array
 
